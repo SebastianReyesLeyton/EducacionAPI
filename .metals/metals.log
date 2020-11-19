@@ -1,0 +1,4 @@
+2020.11.19 17:20:28 INFO  Started: Metals version 0.9.5 in workspace '/home/jsrl/Documentos/Actividades/Nicolageno/Educativa' for client vscode.
+2020.11.19 17:20:29 INFO  time: initialize in 0.82s
+2020.11.19 17:20:31 WARN  Build server is not auto-connectable.
+2020.11.19 17:20:31 WARN  no build tool detected in workspace '/home/jsrl/Documentos/Actividades/Nicolageno/Educativa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
